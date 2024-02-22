@@ -1,1 +1,1 @@
-Tic Tac Toe websit link : https://tic-tac-toe-by-sanjay.netlify.app
+Tic Tac Toe websit link : https://zero-cuttas-by-sanjay.netlify.app
